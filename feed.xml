@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>論読く - 論文要約ラジオ</title>
+    <link>https://USERNAME.github.io/rondoku-feed/</link>
+    <language>ja</language>
+    <description>通勤中に聴く、火山学を中心とした論文の日本語要約ラジオ。</description>
+    <itunes:author>Kyohei Sano</itunes:author>
+    <itunes:summary>通勤中に聴く、火山学を中心とした論文の日本語要約ラジオ。</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Kyohei Sano</itunes:name>
+      <itunes:email>kyo.hei.ne.jp@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://USERNAME.github.io/rondoku-feed/cover.png"/>
+    <itunes:category text="Science"/>
+    <itunes:explicit>false</itunes:explicit>
+    <lastBuildDate>Tue, 09 Jun 2026 00:29:38 +0000</lastBuildDate>
+
+  </channel>
+</rss>

@@ -16,7 +16,16 @@
     <itunes:image href="https://USERNAME.github.io/rondoku-feed/cover.png"/>
     <itunes:category text="Science"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 09 Jun 2026 00:29:38 +0000</lastBuildDate>
-
+    <lastBuildDate>Tue, 09 Jun 2026 00:34:34 +0000</lastBuildDate>
+    <item>
+      <title>6/9 玄武岩質溶岩流の長さに対する統一スケーリング則：噴出量と噴出率への依存性</title>
+      <description>今日ご紹介するのは、玄武岩質溶岩流の長さに関する統一スケーリング則についての論文です。タイトルは「玄武岩質溶岩流の長さに対する統一スケーリング則：噴出量と噴出率への依存性」。著者は丸石貴史さん、小薗友富さん、三輪学斗さん、藤田英輔さんの4名で、いずれも防災科学技術研究所の研究者です。この論文は2025年に「ジオフィジカル・リサーチ・レターズ」という地球物理学分野の権威ある国際学術誌に掲載されました。一言でいえば、溶岩流がどこまで延びるかを、噴出量と噴出率の両方から定量的に予測できる統一的な公式を初めて導き出した研究です。  溶岩流は、火山の噴火口から流れ出た高温のマグマが斜面を下って広がる現象</description>
+      <itunes:summary>今日ご紹介するのは、玄武岩質溶岩流の長さに関する統一スケーリング則についての論文です。タイトルは「玄武岩質溶岩流の長さに対する統一スケーリング則：噴出量と噴出率への依存性」。著者は丸石貴史さん、小薗友富さん、三輪学斗さん、藤田英輔さんの4名で、いずれも防災科学技術研究所の研究者です。この論文は2025年に「ジオフィジカル・リサーチ・レターズ」という地球物理学分野の権威ある国際学術誌に掲載されました。一言でいえば、溶岩流がどこまで延びるかを、噴出量と噴出率の両方から定量的に予測できる統一的な公式を初めて導き出した研究です。  溶岩流は、火山の噴火口から流れ出た高温のマグマが斜面を下って広がる現象</itunes:summary>
+      <enclosure url="https://USERNAME.github.io/rondoku-feed/episodes/20260609-093346-ep.mp3" length="4417056" type="audio/mpeg"/>
+      <guid isPermaLink="false">2da49701-ed5c-40d8-b7cd-333e5acd6c9c</guid>
+      <pubDate>Tue, 09 Jun 2026 00:34:34 +0000</pubDate>
+      <itunes:duration>12:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>

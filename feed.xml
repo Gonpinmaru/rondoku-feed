@@ -3,19 +3,33 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>論読く - 論文要約ラジオ</title>
+    <title>ペパラジ</title>
     <link>https://Gonpinmaru.github.io/rondoku-feed/</link>
     <language>ja</language>
-    <description>論文の日本語要約ラジオ。</description>
-    <itunes:author>Ron-doku</itunes:author>
-    <itunes:summary>論文の日本語要約ラジオ。</itunes:summary>
+    <description>論文や資料を、2人のMCが面白く分かりやすく紹介するラジオ番組です。</description>
+    <itunes:author>ペパラジ</itunes:author>
+    <itunes:summary>論文や資料を、2人のMCが面白く分かりやすく紹介するラジオ番組です。</itunes:summary>
     <itunes:owner>
-      <itunes:name>Ron-doku</itunes:name>
+      <itunes:name>ペパラジ</itunes:name>
     </itunes:owner>
     <itunes:image href="https://Gonpinmaru.github.io/rondoku-feed/cover.png"/>
     <itunes:category text="Science"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Thu, 25 Jun 2026 02:59:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 07:27:06 +0000</lastBuildDate>
+    <item>
+      <title>7/3 火山の軽石における密度と空隙率を測る「水置換法」のシンプルな新技術</title>
+      <description>みなさんこんにちはにゃ！ここは資料をたのしく読み解くラジオ、ペパラジだにゃ！ 聞き手のジオニャンと、解説担当のジオ美でお送りします！ 聞き手担当のジオニャンだにゃ、よろしくにゃ！ 今日紹介するのは、竹内しんごさんと諏訪ゆきこさんによる論文で、掲載誌はアース・プラネッツ・アンド・スペースという地球科学の専門誌だよ。 タイトルは「多孔質な火山岩の、かさ密度・骨格密度・固体密度を、シンプルな水置換法で測る」ってやつだにゃ！ そう、軽石とかスコリアみたいな、穴だらけの火山岩の「密度」と「空隙率」を、身近な道具でお手軽に測っちゃおうという研究なんだ。 密度とか空隙率って、そんなに大事なものなのかにゃ？ 
+
+— 音声合成：AivisSpeech：らせつん／まい</description>
+      <itunes:summary>みなさんこんにちはにゃ！ここは資料をたのしく読み解くラジオ、ペパラジだにゃ！ 聞き手のジオニャンと、解説担当のジオ美でお送りします！ 聞き手担当のジオニャンだにゃ、よろしくにゃ！ 今日紹介するのは、竹内しんごさんと諏訪ゆきこさんによる論文で、掲載誌はアース・プラネッツ・アンド・スペースという地球科学の専門誌だよ。 タイトルは「多孔質な火山岩の、かさ密度・骨格密度・固体密度を、シンプルな水置換法で測る」ってやつだにゃ！ そう、軽石とかスコリアみたいな、穴だらけの火山岩の「密度」と「空隙率」を、身近な道具でお手軽に測っちゃおうという研究なんだ。 密度とか空隙率って、そんなに大事なものなのかにゃ？ 
+
+— 音声合成：AivisSpeech：らせつん／まい</itunes:summary>
+      <enclosure url="https://Gonpinmaru.github.io/rondoku-feed/episodes/20260703-162352-ep-bgm.mp3" length="10610355" type="audio/mpeg"/>
+      <guid isPermaLink="false">563d6a98-a306-4cd8-91e7-562e8d12c363</guid>
+      <pubDate>Fri, 03 Jul 2026 07:27:06 +0000</pubDate>
+      <itunes:duration>11:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>6/25 ケイ酸塩の化学結合：並列電子エネルギー損失分光法によるケイ素エルにーさん端の研究</title>
       <description>みなさんこんにちは！論文を読み解くラジオ「論読く」、聞き手担当のジオニャンだにゃ！ そして解説担当のジオ美です。今日もよろしくお願いします！ さっそくだけど、今日はどんな論文を紹介してくれるのかにゃ？ 今日は1999年にアメリカン・ミネラロジストに掲載された、ローレンス・ガービーさんとピーター・ブセックさんの論文だよ。お二人ともアリゾナ州立大学の研究者ね。 アリゾナ州立大学、砂漠のど真ん中にある大学だにゃ！ タイトルは「ケイ酸塩の化学結合：並列電子エネルギー損失分光法によるケイ素エルにーさん端の研究」。長いけど、中身はめちゃくちゃ面白いよ。 うーん、いきなり専門用語の嵐だにゃ。電子エネルギー損

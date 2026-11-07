@@ -3,19 +3,19 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>ペパラジ</title>
+    <title>ジオラジ</title>
     <link>https://Gonpinmaru.github.io/rondoku-feed/</link>
     <language>ja</language>
-    <description>論文や資料を、2人のMCが面白く分かりやすく紹介するラジオ番組です。</description>
-    <itunes:author>ペパラジ</itunes:author>
-    <itunes:summary>論文や資料を、2人のMCが面白く分かりやすく紹介するラジオ番組です。</itunes:summary>
+    <description>ジオパークに関わる人へ。地質・生態・保全・活用の論文や資料を、2人のMCがやさしく分かりやすく紹介するラジオです。</description>
+    <itunes:author>ジオラジ</itunes:author>
+    <itunes:summary>ジオパークに関わる人へ。地質・生態・保全・活用の論文や資料を、2人のMCがやさしく分かりやすく紹介するラジオです。</itunes:summary>
     <itunes:owner>
-      <itunes:name>ペパラジ</itunes:name>
+      <itunes:name>ジオラジ</itunes:name>
     </itunes:owner>
-    <itunes:image href="https://Gonpinmaru.github.io/rondoku-feed/cover-e9e32f94.png"/>
+    <itunes:image href="https://Gonpinmaru.github.io/rondoku-feed/cover-c8dda3b5.png"/>
     <itunes:category text="Science"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sat, 01 Aug 2026 08:02:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 02:38:35 +0000</lastBuildDate>
     <item>
       <title>8/1 史料解読による浅間山天明三年(1783年)噴火推移の再構築</title>
       <description>さあ始まりました、ペパラジの時間だにゃ! 論文やレポートを面白おかしく紹介する番組、ペパラジです。 聞き手担当のジオニャンだにゃ。今日もリスナー目線でどんどん質問していくにゃ! 解説担当のジオ美です。今日はちょっとタイムスリップする回になりそうだよ。 え、タイムスリップかにゃ? そう。今日紹介するのは、たむらちえこさんと、はやかわゆきおさんが書いた論文。タイトルは「史料解読による浅間山天明三年、西暦1783年の噴火推移の再構築」。地学雑誌という学術誌に1995年に載ったものだよ。 浅間山って、群馬と長野の県境にあるあの有名な火山かにゃ? そうそう。江戸時代の天明三年、つまり1783年に浅間山は

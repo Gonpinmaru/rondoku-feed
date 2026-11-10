@@ -6,29 +6,16 @@
     <title>ジオラジ</title>
     <link>https://Gonpinmaru.github.io/rondoku-feed/</link>
     <language>ja</language>
-    <description>ジオパークに関わる人へ。地質・生態・保全・活用の論文や資料を、2人のMCがやさしく分かりやすく紹介するラジオです。</description>
+    <description>ジオパークや地球科学の話題を、2人のMCがやさしく楽しく紹介するラジオ。予備知識がなくても楽しめます。</description>
     <itunes:author>ジオラジ</itunes:author>
-    <itunes:summary>ジオパークに関わる人へ。地質・生態・保全・活用の論文や資料を、2人のMCがやさしく分かりやすく紹介するラジオです。</itunes:summary>
+    <itunes:summary>ジオパークや地球科学の話題を、2人のMCがやさしく楽しく紹介するラジオ。予備知識がなくても楽しめます。</itunes:summary>
     <itunes:owner>
       <itunes:name>ジオラジ</itunes:name>
     </itunes:owner>
     <itunes:image href="https://Gonpinmaru.github.io/rondoku-feed/cover-c8dda3b5.png"/>
     <itunes:category text="Science"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 10 Nov 2026 02:05:04 +0000</lastBuildDate>
-    <item>
-      <title>11/10 ユネスコ世界ジオパーク運用指針</title>
-      <description>始まったにゃ！ジオパークの「なるほど」をお届けする番組、ジオラジだにゃ！ 聞き手担当のジオニャンだにゃ。今日もよろしくだにゃ！ 解説担当のジオ美です。よろしくお願いします！ ジオ美さん、今日はどんな資料を持ってきたのかにゃ？ 今日は「ユネスコ世界ジオパーク運用指針」です。英語では「オペレーショナル・ガイドライン」と呼ばれています。 うんよう指針……なんだか固そうな名前だにゃ。 そうなの。でもこれ、二千十五年のユネスコ総会で決まった、世界ジオパークの「ルールブック」なんです。 ルールブック！それなら事務局の人にとっては超大事な資料だにゃ！ そうそう。どうやって認定されて、四年ごとにどうチェックさ
+    <lastBuildDate>Tue, 10 Nov 2026 03:31:03 +0000</lastBuildDate>
 
-— 音声合成：AivisSpeech：らせつん／まい</description>
-      <itunes:summary>始まったにゃ！ジオパークの「なるほど」をお届けする番組、ジオラジだにゃ！ 聞き手担当のジオニャンだにゃ。今日もよろしくだにゃ！ 解説担当のジオ美です。よろしくお願いします！ ジオ美さん、今日はどんな資料を持ってきたのかにゃ？ 今日は「ユネスコ世界ジオパーク運用指針」です。英語では「オペレーショナル・ガイドライン」と呼ばれています。 うんよう指針……なんだか固そうな名前だにゃ。 そうなの。でもこれ、二千十五年のユネスコ総会で決まった、世界ジオパークの「ルールブック」なんです。 ルールブック！それなら事務局の人にとっては超大事な資料だにゃ！ そうそう。どうやって認定されて、四年ごとにどうチェックさ
-
-— 音声合成：AivisSpeech：らせつん／まい</itunes:summary>
-      <enclosure url="https://Gonpinmaru.github.io/rondoku-feed/episodes/20261110-101151-ep-bgm.mp3" length="12350319" type="audio/mpeg"/>
-      <guid isPermaLink="false">7f92d706-9294-48b2-b3dd-c0bfff45c72f</guid>
-      <pubDate>Tue, 10 Nov 2026 01:15:22 +0000</pubDate>
-      <itunes:duration>12:52</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
   </channel>
 </rss>

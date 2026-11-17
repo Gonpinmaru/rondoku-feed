@@ -6,56 +6,38 @@
     <title>ジオラジ</title>
     <link>https://Gonpinmaru.github.io/rondoku-feed/</link>
     <language>ja</language>
-    <description>ジオパークや地球科学の話題を、2人のMCがやさしく楽しく紹介するラジオ。予備知識がなくても楽しめます。</description>
+    <description>ジオパークや地球科学の話題を、2人のMCがやさしく楽しく紹介するラジオ。予備知識がなくても楽しめます。
+
+この番組は生成AI（Claude）と音声合成ソフト（AivisSpeech）を使用して作成しています。内容に一部誤りが含まれる場合があります。</description>
     <itunes:author>ジオラジ</itunes:author>
-    <itunes:summary>ジオパークや地球科学の話題を、2人のMCがやさしく楽しく紹介するラジオ。予備知識がなくても楽しめます。</itunes:summary>
+    <itunes:summary>ジオパークや地球科学の話題を、2人のMCがやさしく楽しく紹介するラジオ。予備知識がなくても楽しめます。
+
+この番組は生成AI（Claude）と音声合成ソフト（AivisSpeech）を使用して作成しています。内容に一部誤りが含まれる場合があります。</itunes:summary>
     <itunes:owner>
       <itunes:name>ジオラジ</itunes:name>
     </itunes:owner>
     <itunes:image href="https://Gonpinmaru.github.io/rondoku-feed/cover-c8dda3b5.png"/>
     <itunes:category text="Science"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 10 Nov 2026 06:10:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 00:42:16 +0000</lastBuildDate>
     <item>
-      <title>11/10 黒曜石はゆっくり冷えてできる</title>
-      <description>みなさん、こんにちはだにゃ！ジオパークと地球科学の話題を楽しく届ける「ジオラジ」の時間だにゃ！ こんにちは！今日もよろしくね。 聞き手担当のジオニャンだにゃ。今日もいっぱい質問するにゃ！ 解説担当のジオ美です。ジオニャンの素朴な疑問、どんどん受けて立ちますよ。 さっそくだけど、今日はどんな資料なのかにゃ？ 今日はね、二〇二六年に科学雑誌「ネイチャー・コミュニケーションズ」に載った論文。イギリスのダラム大学のエド・ルウェリンさんたちの研究チームによるものです。 タイトルは何ていうのかにゃ？ ずばり「黒曜石はゆっくり冷えてできる」。 え？黒曜石って、溶岩が急に冷えてできるんじゃなかったかにゃ？ そ
+      <title>11/17 ユネスコ世界ジオパーク運用指針</title>
+      <description>【扱った資料】
+UNESCO（2015）「Operational Guidelines for UNESCO Global Geoparks」第38回UNESCO総会採択（Resolution 38 C/23, document 38 C/14）, Ref: UGGp/2015/ST-REV.
 
-— 音声合成：AivisSpeech：らせつん／まい</description>
-      <itunes:summary>みなさん、こんにちはだにゃ！ジオパークと地球科学の話題を楽しく届ける「ジオラジ」の時間だにゃ！ こんにちは！今日もよろしくね。 聞き手担当のジオニャンだにゃ。今日もいっぱい質問するにゃ！ 解説担当のジオ美です。ジオニャンの素朴な疑問、どんどん受けて立ちますよ。 さっそくだけど、今日はどんな資料なのかにゃ？ 今日はね、二〇二六年に科学雑誌「ネイチャー・コミュニケーションズ」に載った論文。イギリスのダラム大学のエド・ルウェリンさんたちの研究チームによるものです。 タイトルは何ていうのかにゃ？ ずばり「黒曜石はゆっくり冷えてできる」。 え？黒曜石って、溶岩が急に冷えてできるんじゃなかったかにゃ？ そ
+— 音声合成：AivisSpeech：らせつん／まい
 
-— 音声合成：AivisSpeech：らせつん／まい</itunes:summary>
-      <enclosure url="https://Gonpinmaru.github.io/rondoku-feed/episodes/20261110-150631-ep-bgm.mp3" length="11884713" type="audio/mpeg"/>
-      <guid isPermaLink="false">a6e7b7fc-bae6-4455-ba25-f4a7b91b1338</guid>
-      <pubDate>Tue, 10 Nov 2026 06:10:18 +0000</pubDate>
-      <itunes:duration>12:23</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>11/10 トレイルカメラを使った地質遺産の簡易モニタリング手法の開発</title>
-      <description>みなさん、こんにちは！ジオラジの時間だにゃ！ 聞き手担当のジオニャンだにゃ。今日もよろしくにゃ！ 解説担当のジオ美です。今日も楽しく、地球のお話をしていきましょう！ さっそくだけど、今日はどんな資料なのかにゃ？ 今日はね、兵庫県立大学大学院の地域資源マネジメント研究科のグループが、2025年の学会の大会で発表した内容の要旨です。 学会発表なんだにゃ。テーマは何かにゃ？ タイトルをざっくり言うと「トレイルカメラを使った、地質遺産の簡単な見守りの仕組み」です。 トレイルカメラ？なんだか聞いたことあるような、ないようなだにゃ。 森の動物を撮るときに使う、置きっぱなしのカメラのことだよ。今日はそのカメ
+※ この番組は生成AI（Claude）と音声合成ソフト（AivisSpeech）を使用して作成しています。内容に一部誤りが含まれる場合があります。</description>
+      <itunes:summary>【扱った資料】
+UNESCO（2015）「Operational Guidelines for UNESCO Global Geoparks」第38回UNESCO総会採択（Resolution 38 C/23, document 38 C/14）, Ref: UGGp/2015/ST-REV.
 
-— 音声合成：AivisSpeech：らせつん／まい</description>
-      <itunes:summary>みなさん、こんにちは！ジオラジの時間だにゃ！ 聞き手担当のジオニャンだにゃ。今日もよろしくにゃ！ 解説担当のジオ美です。今日も楽しく、地球のお話をしていきましょう！ さっそくだけど、今日はどんな資料なのかにゃ？ 今日はね、兵庫県立大学大学院の地域資源マネジメント研究科のグループが、2025年の学会の大会で発表した内容の要旨です。 学会発表なんだにゃ。テーマは何かにゃ？ タイトルをざっくり言うと「トレイルカメラを使った、地質遺産の簡単な見守りの仕組み」です。 トレイルカメラ？なんだか聞いたことあるような、ないようなだにゃ。 森の動物を撮るときに使う、置きっぱなしのカメラのことだよ。今日はそのカメ
+— 音声合成：AivisSpeech：らせつん／まい
 
-— 音声合成：AivisSpeech：らせつん／まい</itunes:summary>
-      <enclosure url="https://Gonpinmaru.github.io/rondoku-feed/episodes/20261110-150055-ep-bgm.mp3" length="10196158" type="audio/mpeg"/>
-      <guid isPermaLink="false">112d98d9-6533-43df-bf03-e217e9d60d12</guid>
-      <pubDate>Tue, 10 Nov 2026 06:04:20 +0000</pubDate>
-      <itunes:duration>10:37</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>11/10 ユネスコ世界ジオパーク 運用指針</title>
-      <description>はーい！ 今週も始まったにゃ！ 地球の話をゆるっと楽しむラジオ番組、ジオラジだにゃ！ 聞き手担当のジオニャンだにゃ。よろしくだにゃ！ 解説担当のジオ美です。今日もよろしくね！ ジオ美さん、今日はどんな資料を持ってきたのかにゃ？ 今日はちょっとかわりだね。論文じゃなくて、ルールブックなんだ。 ルールブック？ スポーツみたいだにゃ。 そうそう。タイトルは「ユネスコ世界ジオパーク 運用指針」。二千十五年に、ユネスコの総会で採択された文書だよ。 ユネスコって、世界遺産で有名なあの国際機関だにゃ？ そのとおり！ 教育や科学、文化を担当する国連の機関だね。 この指針には、ジオパークになるための条件、審査の
-
-— 音声合成：AivisSpeech：らせつん／まい</description>
-      <itunes:summary>はーい！ 今週も始まったにゃ！ 地球の話をゆるっと楽しむラジオ番組、ジオラジだにゃ！ 聞き手担当のジオニャンだにゃ。よろしくだにゃ！ 解説担当のジオ美です。今日もよろしくね！ ジオ美さん、今日はどんな資料を持ってきたのかにゃ？ 今日はちょっとかわりだね。論文じゃなくて、ルールブックなんだ。 ルールブック？ スポーツみたいだにゃ。 そうそう。タイトルは「ユネスコ世界ジオパーク 運用指針」。二千十五年に、ユネスコの総会で採択された文書だよ。 ユネスコって、世界遺産で有名なあの国際機関だにゃ？ そのとおり！ 教育や科学、文化を担当する国連の機関だね。 この指針には、ジオパークになるための条件、審査の
-
-— 音声合成：AivisSpeech：らせつん／まい</itunes:summary>
-      <enclosure url="https://Gonpinmaru.github.io/rondoku-feed/episodes/20261110-123326-ep-bgm.mp3" length="11460902" type="audio/mpeg"/>
-      <guid isPermaLink="false">6a6abaa7-3c71-4b3b-bd16-7a345f24da48</guid>
-      <pubDate>Tue, 10 Nov 2026 03:37:06 +0000</pubDate>
-      <itunes:duration>11:56</itunes:duration>
+※ この番組は生成AI（Claude）と音声合成ソフト（AivisSpeech）を使用して作成しています。内容に一部誤りが含まれる場合があります。</itunes:summary>
+      <enclosure url="https://Gonpinmaru.github.io/rondoku-feed/episodes/20261117-093729-ep-bgm.mp3" length="13572850" type="audio/mpeg"/>
+      <guid isPermaLink="false">3e7e14fc-8b4d-463c-9f36-c303e7b93b25</guid>
+      <pubDate>Tue, 17 Nov 2026 00:42:16 +0000</pubDate>
+      <itunes:duration>14:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

@@ -18,5 +18,15 @@
     "bytes": 12194421,
     "duration": 762,
     "pub_date": "2026-11-17T00:51:28.472813+00:00"
+  },
+  {
+    "guid": "d97d561c-4a65-41af-b74e-d981dbc0c97a",
+    "title": "11/17 黒曜石は「ゆっくり冷えて」できる",
+    "description": "【扱った資料】\nLlewellin, E.W., Wadsworth, F.B., Sullivan, P. et al.（2026）「Obsidian forms by slow cooling」Nature Communications（Article in Press）. DOI:10.1038/s41467-026-70110-1\n\n— 音声合成：AivisSpeech：らせつん／まい\n\n※ この番組は生成AI（Claude）と音声合成ソフト（AivisSpeech）を使用して作成しています。内容に一部誤りが含まれる場合があります。",
+    "audio_file": "20261117-100126-ep-bgm.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 11042525,
+    "duration": 690,
+    "pub_date": "2026-11-17T01:04:58.440547+00:00"
   }
 ]

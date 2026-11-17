@@ -19,7 +19,27 @@
     <itunes:image href="https://Gonpinmaru.github.io/rondoku-feed/cover-c8dda3b5.png"/>
     <itunes:category text="Science"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 17 Nov 2026 00:51:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 01:04:58 +0000</lastBuildDate>
+    <item>
+      <title>11/17 黒曜石は「ゆっくり冷えて」できる</title>
+      <description>【扱った資料】
+Llewellin, E.W., Wadsworth, F.B., Sullivan, P. et al.（2026）「Obsidian forms by slow cooling」Nature Communications（Article in Press）. DOI:10.1038/s41467-026-70110-1
+
+— 音声合成：AivisSpeech：らせつん／まい
+
+※ この番組は生成AI（Claude）と音声合成ソフト（AivisSpeech）を使用して作成しています。内容に一部誤りが含まれる場合があります。</description>
+      <itunes:summary>【扱った資料】
+Llewellin, E.W., Wadsworth, F.B., Sullivan, P. et al.（2026）「Obsidian forms by slow cooling」Nature Communications（Article in Press）. DOI:10.1038/s41467-026-70110-1
+
+— 音声合成：AivisSpeech：らせつん／まい
+
+※ この番組は生成AI（Claude）と音声合成ソフト（AivisSpeech）を使用して作成しています。内容に一部誤りが含まれる場合があります。</itunes:summary>
+      <enclosure url="https://Gonpinmaru.github.io/rondoku-feed/episodes/20261117-100126-ep-bgm.mp3" length="11042525" type="audio/mpeg"/>
+      <guid isPermaLink="false">d97d561c-4a65-41af-b74e-d981dbc0c97a</guid>
+      <pubDate>Tue, 17 Nov 2026 01:04:58 +0000</pubDate>
+      <itunes:duration>11:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>11/17 トレイルカメラを使った地質遺産の簡易モニタリング手法の開発</title>
       <description>【扱った資料】
